@@ -1,5 +1,15 @@
-Hi, this is my page!
+<html>
+  <head>
+    <title>Ivan's CV</title>
+  </head>
 
 
---------------------
-https://ivanpalm.github.io
+  <body>
+    <h1>My CV</h1>
+    
+    <h2>
+        Here it is
+    </h2>
+
+  </body>
+</html>
